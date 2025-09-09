@@ -1,1 +1,3 @@
-# Khairunisa-Aprilia-2409116060-Post-Test-1-PBO
+* Nama : Khairunisa Aprilia
+* NIM : 2409116060
+* Kelas : B Sistem Informasi 2024
