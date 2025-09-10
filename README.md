@@ -1,3 +1,3 @@
-"Nama : Khairunisa Aprilia"
-"NIM : 2409116060"
-"Kelas : B Sistem Informasi 2024"
+# Nama : Khairunisa Aprilia
+# NIM : 2409116060
+# Kelas : B Sistem Informasi 2024
