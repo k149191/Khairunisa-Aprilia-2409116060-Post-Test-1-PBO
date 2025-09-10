@@ -119,7 +119,7 @@ Program sederhana ini dibuat untuk membantu mengatur waktu belajar dengan menggu
 
     <img width="1261" height="244" alt="image" src="https://github.com/user-attachments/assets/3e8e7d68-0656-4d0d-a5d7-e8f0cddc58ee" />
 
-    Cse 5 program menampilkan pesan "Terima kasih telah mengunjungi Pomodoro Tracker." sebagai tanda keluar dari aplikasi. Lalu ada default, yang menangani input menu yang tidak sesuai dengan pilihan yang tersedia, dengan mencetak pesan "Pilihan tidak valid.". Setelah itu, terdapat perulangan do while (pilihan != 5); yang membuat menu terus ditampilkan berulang kali hingga pengguna memilih opsi nomor 5, yaitu keluar dari program.
+    Case 5 program menampilkan pesan "Terima kasih telah mengunjungi Pomodoro Tracker." sebagai tanda keluar dari aplikasi. Lalu ada default, yang menangani input menu yang tidak sesuai dengan pilihan yang tersedia, dengan mencetak pesan "Pilihan tidak valid.". Setelah itu, terdapat perulangan do while (pilihan != 5); yang membuat menu terus ditampilkan berulang kali hingga pengguna memilih opsi nomor 5, yaitu keluar dari program.
 
 
 
