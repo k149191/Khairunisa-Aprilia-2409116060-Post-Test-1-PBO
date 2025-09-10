@@ -62,10 +62,10 @@ Program sederhana ini dibuat untuk membantu mengatur waktu belajar dengan menggu
 
 * Source Code
 1. Package
+  
+   <img width="397" height="33" alt="image" src="https://github.com/user-attachments/assets/796e39ae-5616-4038-9be7-d5e4cde80ecf" />
    
-  <img width="397" height="33" alt="image" src="https://github.com/user-attachments/assets/796e39ae-5616-4038-9be7-d5e4cde80ecf" />
-
-  Proyek ini disimpan di package pbo.posttest1;
+   Proyek ini disimpan di package pbo.posttest1;
 
 2. Import Class
 
